@@ -74,4 +74,7 @@
 * 版本管理、文档和自动化部署工具：Git / JSDoc / GitHook / Shell
 * 单元测试：Mocha / Chai
 
+-------------------------------------------------------------------------------
+
+![](https://dl.dropboxusercontent.com/s/blyjx1sh5ncdpqo/vi.png?dl=0)
 
